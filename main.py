@@ -1,7 +1,7 @@
 import functions
 import time
 while True:
-    print("Present time: ",time.strftime("%b %d,%H:%M:%S"))
+    print("Present time: ", time.strftime("%b %d,%H:%M:%S"))
     user_choice = input("Type add,edit,Show,exit and complete: ")
     user_choice = user_choice.strip()
 
@@ -16,7 +16,7 @@ while True:
         todos = functions.get_todos("todo.txt")
 
         # todos = [item.strip("\n") for item in todos]
-        for index,item in enumerate(todos):
+        for index, item in enumerate(todos):
             item = item.strip("\n")
             print(f"{index+1}-{item}")
 

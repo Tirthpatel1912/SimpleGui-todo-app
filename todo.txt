@@ -1,5 +1,6 @@
-watch movie
-physics study
+watch netflix
 work in station
-paint the wall
+wash the car
 master python
+learn c++
+learn python
