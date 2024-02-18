@@ -1,0 +1,12 @@
+[
+  {
+    "question":"Who is the PM of India?",
+    "options": ["Narendra Modi","Manmohansingh","Hemant sharma","Naredra patel"],
+    "answer": 1
+  },
+  {
+    "question":"Who is the Helth-minister of India?",
+    "options": ["Nirmala sitaraman","Piyush Goyal","Hemant sharma","Hasmukh Mandviya"],
+    "answer": 4
+  }
+]
