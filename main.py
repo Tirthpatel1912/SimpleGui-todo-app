@@ -1,6 +1,5 @@
 import functions
 import time
-
 while True:
     print("Present time: ",time.strftime("%b %d,%H:%M:%S"))
     user_choice = input("Type add,edit,Show,exit and complete: ")
