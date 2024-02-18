@@ -12,3 +12,4 @@ def set_todos(todos_arg, filepath="todo.txt"):
     """
     with open(filepath,"w") as file_local:
         file_local.writelines(todos_arg)
+

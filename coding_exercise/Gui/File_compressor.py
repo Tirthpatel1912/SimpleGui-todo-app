@@ -1,5 +1,6 @@
 import PySimpleGUI as sg
 
+
 label1 = sg.Text("Selects to compress file")
 input1 = sg.Input()
 choose_button1 = sg.FilesBrowse("Choose")
