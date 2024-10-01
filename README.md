@@ -36,7 +36,10 @@ To run the application, execute the following command:
 python SimpleGui-todo-app.py
 ```
 ## screenshort
-<img src="Todo.png" width="400" style="margin:auto auto;"/>
+<div align="center">
+	<img src="Todo.png" width="400"/>
+</div>
+
 
 
 
